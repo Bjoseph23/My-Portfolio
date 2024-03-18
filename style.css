@@ -72,3 +72,18 @@ figcaption {
 footer{
     font-size:larger;
 }
+Button {
+    color: rgb(0, 0, 0); font-size: 17px; 
+    line-height: 17px; 
+    padding: 6px; 
+    border-radius: 10px; 
+    font-family: Georgia, serif; 
+    font-weight: normal; 
+    display: inline-block;
+}
+Button:hover {
+    background: #eef0a2; 
+}
+Button:active {
+    background: #8ca1af; 
+}
